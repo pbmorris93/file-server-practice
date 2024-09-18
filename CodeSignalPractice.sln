@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSignalPractice.Lib", "CodeSignalPractice.Lib\CodeSignalPractice.Lib.csproj", "{D15917C7-BD7E-4D34-8CC2-E6771F158B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeSignalPractice.Tests", "CodeSignalPractice.Tests\CodeSignalPractice.Tests.csproj", "{5D39C19C-E9BF-424E-B110-F425805F9F44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D15917C7-BD7E-4D34-8CC2-E6771F158B7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D15917C7-BD7E-4D34-8CC2-E6771F158B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D15917C7-BD7E-4D34-8CC2-E6771F158B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D15917C7-BD7E-4D34-8CC2-E6771F158B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D39C19C-E9BF-424E-B110-F425805F9F44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D39C19C-E9BF-424E-B110-F425805F9F44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D39C19C-E9BF-424E-B110-F425805F9F44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D39C19C-E9BF-424E-B110-F425805F9F44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
